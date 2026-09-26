@@ -1,3 +1,10 @@
+"""
+Problem 1
+You are given an integer array nums and an integer target.
+Find two different indices whose values add up to target.
+"""
+
+
 def twoSum(nums, target):
     seen = {}
 
